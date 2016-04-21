@@ -1,6 +1,6 @@
 dep 'corosync running' do
   def netstat_cmd
-    "netstat -an | grep '^tcp.*[.:]5504 .*LISTEN'"
+    "netstat -an | grep 5405"
   end
   met? {
     shell?(netstat_cmd).tap {|r|
