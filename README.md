@@ -6,7 +6,7 @@ This is where I will keep my babushka dep files.
 [Install Babushka](http://babushka.me/installing)
 
 ### Installation oneliner for the lazy.
-`sh -c "``curl https://babushka.me/up``"`
+`sh -c "(`)curl https://babushka.me/up(`)"`
 
 ### Credit
 This crazy awesome software was built over here:
